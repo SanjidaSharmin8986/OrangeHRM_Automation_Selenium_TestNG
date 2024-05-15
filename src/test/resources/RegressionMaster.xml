@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Regression Master Suite">
+<suite-files>
+    <suite-file path = "RegressionSuite/regression.xml"></suite-file>
+</suite-files>
+</suite>

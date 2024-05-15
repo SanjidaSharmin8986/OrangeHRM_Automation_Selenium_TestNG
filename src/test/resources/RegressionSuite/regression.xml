@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "OrangeHRM Automation">
+    <test name = "Login to the Portal">
+        <classes>
+            <class name = "TestRunners.LoginPageRunner">
+            </class>
+        </classes>
+    </test>
+
+    <test name = "Create New Employee">
+        <classes>
+            <class name = "TestRunners.PIMPageRunner">
+            </class>
+        </classes>
+    </test>
+
+    <test name = "Login using New employee's credentials and edit details">
+        <classes>
+            <class name = "TestRunners.NewEmployeePageRunner">
+            </class>
+        </classes>
+    </test>
+
+</suite>
