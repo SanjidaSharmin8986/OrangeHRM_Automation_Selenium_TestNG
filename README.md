@@ -50,6 +50,16 @@
 
   ![SmokeBehaviour](https://github.com/SanjidaSharmin8986/OrangeHRM_Automation_Selenium_TestNG/assets/156296801/61607dd1-17c4-4f95-ae8c-8fdb2a61e163)
 
+## Visual Representation of this project:
+
+ ### Regression Test:
+
+ https://github.com/SanjidaSharmin8986/Automated_WebformSubmit_JUnit/assets/156296801/6c42dae1-07fe-433d-a2f5-60289c587e0e
+
+ ### Smoke Test:
+
+ https://github.com/SanjidaSharmin8986/Automated_WebformSubmit_JUnit/assets/156296801/33c463c7-3fb5-40be-a983-5b522b9cbf00
+
 
 
 
